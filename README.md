@@ -1,9 +1,7 @@
-# goRestApi
-Api done in Go for using just $ go run main.go
 
 # REST API made in Go
 
-It is entirely written in the file main.go
+Api done in Go for using just $ go run main.go
 
 ## Run
 
